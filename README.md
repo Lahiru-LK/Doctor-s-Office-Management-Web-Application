@@ -11,15 +11,23 @@ Dhananjaya Rupasinghe,
 Buddhi Sampath,
 @Prageeth Siriwardhna
 
+
+![www borcellehealthservice online](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/12b5b10e-f31d-454e-91f3-939b7aa877b8)
+
+![Screenshot_20231110_120307](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/c70428e3-ee02-4236-b7e0-5058096f6f84)
+
+![Screenshot_20231109_115930](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/74e68672-c6af-455f-9671-e208eeb43227)
+
+![Screenshot_20231109_115740](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/4fd50303-9f70-4b91-b4f3-8fe9486aef21)
+
+![Screenshot_20231109_115553](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/d7ddc0db-2046-4f6b-847c-bfc90d82df23)
+
+![Screenshot_20231105_112012](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/05911b0a-2a68-43d7-9049-8caf909caf2d)
+
+![Screenshot_20231105_112012](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/be1c85a0-4375-4cdc-84e2-69429a27b878)
+
+![Screenshot_20231105_111841](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/5749ffe7-f42f-4bdb-8f34-7c5a14409c9e)
 #GroupProject #SoftwareEngineering #ProjectCompletion #TechInHealthcare"
 
 
-https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/cfc2b6ab-9def-40ea-8d66-b8f6da37230e
 
-![www borcellehealthservice online](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/e443178b-52ac-4664-a323-224924a9f4fe)
-![Screenshot_20231110_120307](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/409bd66a-adc4-45a8-b2ec-80220932033e)
-![Screenshot_20231109_115553](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/80ab0014-045f-4547-84ee-54f74063612b)
-![Screenshot_20231105_111841](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/d214b6ec-da1f-4df4-b62a-440fad06ae37)
-![Screenshot_20231105_112012](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/4d4ccbef-9492-4ff3-9298-afde37260085)
-![Screenshot_20231106_051031](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/3ffdf35f-7961-4a60-b0e3-582925508266)
-![Screenshot_20231105_112357](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/fe228929-80de-4b06-9eb9-e60d465193b0)
