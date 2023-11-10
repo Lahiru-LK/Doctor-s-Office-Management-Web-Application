@@ -13,8 +13,8 @@ Buddhi Sampath,
 
 #GroupProject #SoftwareEngineering #ProjectCompletion #TechInHealthcare"
 
-https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/cfc2b6ab-9def-40ea-8d66-b8f6da37230e
 
+https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/cfc2b6ab-9def-40ea-8d66-b8f6da37230e
 
 ![www borcellehealthservice online](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/e443178b-52ac-4664-a323-224924a9f4fe)
 ![Screenshot_20231110_120307](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/409bd66a-adc4-45a8-b2ec-80220932033e)
@@ -23,4 +23,3 @@ https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/1
 ![Screenshot_20231105_112012](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/4d4ccbef-9492-4ff3-9298-afde37260085)
 ![Screenshot_20231106_051031](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/3ffdf35f-7961-4a60-b0e3-582925508266)
 ![Screenshot_20231105_112357](https://github.com/Lahiru-LK/Doctor-s-Office-Management-Web-Application/assets/104630433/fe228929-80de-4b06-9eb9-e60d465193b0)
-
